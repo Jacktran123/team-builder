@@ -1,0 +1,43 @@
+form{
+    background: #74F5FB;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 0 auto;
+}
+
+h2{
+    text-align: center;
+}
+
+label{
+    margin-left: 20%;
+}
+
+form input{
+    width: 60%;
+    margin: 0 auto;
+}
+
+Button{
+    width: 30%;
+    margin : 3% 35%;
+}
+
+.form{
+    display: flex;
+    justify-content: space-around;
+}
+
+.list{
+    background: #FFFF88;
+    width: 100%;
+}
+
+.member{
+    background: #fff;
+    width: 40%;
+    margin: 0 auto;
+    padding: 3%;
+} 
+
